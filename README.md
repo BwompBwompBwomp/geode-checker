@@ -28,6 +28,10 @@ Geode Checker is an independent project and is not affiliated with the Geode tea
 
 **This is a simulator.** Mod installation, downloading and other mod-management features are simulated. It does not actually install Geode mods or modify your Geometry Dash installation.
 
+## AI Disclosure
+
+AI tools were used during the development of this project to assist with code generation and development. The project has been reviewed and tested by the author.
+
 ## Source Code
 
 The project source and build script are available in this repository.
